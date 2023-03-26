@@ -1,3 +1,5 @@
-Arduino webserver for memoSTACK medication adherence device
+# memoSTACK web server
 
-User input is recorded in Google Form for private or authorized tracking purposes
+This is the webserver that commmunicates with the WiFi-enabled smart bracelet for our medication adherence device
+
+User input is recorded in a Google Form for private (or authorized) tracking purposes
